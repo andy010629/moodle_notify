@@ -1,6 +1,5 @@
 # moodle notify
-> 本專案實作 銘傳大學的 moodle 的行事曆 notify 功能，透過config 的 moodle account 模擬登入後取額 日歷 ics 檔案後，進行截止日判斷在發出通知。 
-
+> 本專案實作 銘傳大學的 moodle 課程事件 notify 功能，透過 config.ini 的 moodle account 模擬登入後取得課程資訊並且發出通知
 ## 開始之前
 在 config.ini 裡設定 moodle 的帳號密碼 
 到 https://notify-bot.line.me/my 去申請 存取權杖（開發人員用）
